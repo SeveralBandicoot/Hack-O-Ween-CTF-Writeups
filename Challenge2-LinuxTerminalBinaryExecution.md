@@ -9,8 +9,7 @@ flag without needing to execute or reverse-engineer the application fully.
 
 ##Thinking Process
 
-1. Static Analysis Decision: Given the file was an executable (.exe) and the challenge title hinted at a terminal interface, the most effective 
-first step in my mind was to perform astatic analysis to check if the flag was stored in plain text within the binary itself. 
+1. Static Analysis Decision: Given the file was an executable (.exe) and the challenge title hinted at a terminal interface, the most effective first step was to perform static analysis to check if the flag was stored in plain text within the binary itself.
 
 2. Executing the strings command: I navigated to the directory containing LinkedRooms.exe and ran the strings command, 
 which outputs all human-readable character sequances (strings) found in the file:
