@@ -15,3 +15,6 @@ The goal for this challenge was to analyze the provided executable file, `Linked
 ```Bash
 strings LinkedRooms.exe
 ```
+I analyzed the extensive output, specifically searching for common CTF patterns such as flag, flame, or any other strings related to the challenge theme. The sequence skin_stealer was successfully identified within the output, which, when combined with the required flag format, yielded the final answer.
+
+Flag: `flame{skin_stealer}`
