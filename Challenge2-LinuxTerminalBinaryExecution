@@ -13,4 +13,5 @@ The goal for this challenge was to analyze the provided executable file, LinkedR
 strings LinkedRooms.exe
 
 ##Flag Extraction: 
-I analyzed the extensive output from the command, specifically searching for common CTF patterns like flag, flame, or any other strings related to the challenge theme. The string skin_stealer was identified wihin the output, which, when combined with the required flag format, yielded the final answer. We were given the folder LinkedRoom, the files contained in this folder were LinkedRooms.exe. The flag for this challenge was "flame{skin_stealer}".
+I analyzed the extensive output from the command, specifically searching for common CTF patterns like flag, flame, or any other strings related to the challenge theme. The string skin_stealer was identified wihin the output, which, when combined with the required flag format, yielded the final answer. 
+We were given the folder LinkedRoom, the files contained in this folder were LinkedRooms.exe. The flag for this challenge was "flame{skin_stealer}".
