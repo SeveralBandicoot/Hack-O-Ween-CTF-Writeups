@@ -1,6 +1,6 @@
 Challenge 2: Linux Terminal Binary Execution 
 
-The goal for this challenge was to analyze the provided executable file, LinkedRooms.exe, to extract the hidden 
+The goal for this challenge was to analyze the provided executable file, `LinkedRooms.exe', to extract the hidden 
 flag without needing to execute or reverse-engineer the application fully. 
 
 ##Tools Used
